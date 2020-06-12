@@ -12,3 +12,25 @@ I simply made adjustments to it like:
 3) Delete information
 
 4) Updated Splash image and App Logo.
+
+
+### Install App
+
+To run app.
+
+1) Install npm: https://nodejs.org/en/download/
+
+2) Run: 
+```
+npm install
+```
+
+3) Install expo cli: 
+```
+npm install -g expo-cli
+```
+
+4) Run: 
+```
+expo start
+```
