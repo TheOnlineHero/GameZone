@@ -30,7 +30,11 @@ npm install
 npm install -g expo-cli
 ```
 
-4) Run: 
+4) Cd into the correct directory, then run: 
 ```
 expo start
 ```
+
+For full instructions on how to install NPM, Expo, watch Net Ninja React Native series:
+
+https://youtu.be/ur6I5m2nTvk
